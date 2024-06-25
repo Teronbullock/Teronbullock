@@ -1,4 +1,4 @@
-# Hi, I'm TeRON
+# Hi, I'm Te'ron
 
 <p>
 I'm an experienced software engineer specializing in building modern web applications with JavaScript, including React, and WordPress development (custom themes and plugins). I also have a keen interest in Machine Learning and AI.
