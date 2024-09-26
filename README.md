@@ -1,5 +1,5 @@
 <div align="center"><img src="https://github.com/Teronbullock/myImages/blob/main/img/gh-bg-840.jpg" /></div>
-
+<br>
 <div align="center">
   <a href="https://teronbullock.com/">
     <img src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black" alt="Website Badge">
@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/(formerly%20twitter)-f8f8f8?style=flat&logo=x&logoColor=black" alt="X formerly Twitter Badge">
   </a>
 </div>
+<br>
 
 Hi, I'm Teron (Teh-Ron).
 
