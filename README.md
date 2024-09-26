@@ -35,10 +35,10 @@ I'm an experienced software engineer specializing in building modern web applica
   <td width="500"> 
     <div align="center"><img src="https://github.com/Teronbullock/myImages/blob/main/gif/flashlearn-demo.gif"/></div>
     <h3 align="center">
-      <a algin="center" href="https://github.com/Teronbullock/FlashLearn">FlashLearn</a>
+      <a algin="center" href="https://github.com/Teronbullock/FlashLearn" target="_blank" rel="noopener noreferrer">FlashLearn</a>
     </h3>
     <p align="center">
-      <a href="https://github.com/Teronbullock/FlashLearn">
+      <a href="https://github.com/Teronbullock/FlashLearn" target="_blank" rel="noopener noreferrer">
         <img alt="FlashLearn Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black">
       </a>
     </p>
@@ -46,13 +46,13 @@ I'm an experienced software engineer specializing in building modern web applica
   <td width="500">
     <div align="center"><img src="https://github.com/Teronbullock/myImages/blob/main/gif/clearcast-demo.gif"/></div>
     <h3 align="center">
-      <a href="https://github.com/Teronbullock/ClearCast">ClearCast</a>
+      <a href="https://github.com/Teronbullock/ClearCast" target="_blank" rel="noopener noreferrer">ClearCast</a>
     </h3>
     <p align="center">
-      <a href="https://github.com/Teronbullock/ClearCast">
+      <a href="https://github.com/Teronbullock/ClearCast" target="_blank" rel="noopener noreferrer">
         <img alt="ClearCast Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black">
       </a>
-      <a href="https://react-weather-app-tb.netlify.app/">
+      <a href="https://react-weather-app-tb.netlify.app/" target="_blank" rel="noopener noreferrer">
         <img alt="ClearCast Website Button" src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black">
       </a>
     </p>
@@ -62,19 +62,27 @@ I'm an experienced software engineer specializing in building modern web applica
   <td width="500"> 
     <div align="center"><img src="https://github.com/Teronbullock/myImages/blob/main/gif/teronbullock-demo.gif"/></div>
     <h3 align="center">
-      <a algin="center" href="https://teronbullock.com/">TeronBullock.com</a>
+      <a algin="center" href="https://teronbullock.com/" target="_blank" rel="noopener noreferrer">TeronBullock.com</a>
     </h3>
     <p align="center">
-      <a href="https://github.com/Teronbullock/teronbullock-theme">
+      <a href="https://github.com/Teronbullock/teronbullock-theme" target="_blank" rel="noopener noreferrer">
         <img alt="TeronBullock Theme Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black">
       </a>
-      <a href="https://teronbullock.com/">
+      <a href="https://teronbullock.com/" target="_blank" rel="noopener noreferrer">
         <img alt="TeronBullock.com Website Button" src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black">
       </a>
     </p>
   </td>
   <td width="500">
-    
+    <div align="center"><img src="https://github.com/Teronbullock/myImages/blob/main/gif/fitsmallbusiness-demo.gif"/></div>
+    <h3 align="center">
+      <a algin="center" href="https://teronbullock.com/project/fit-small-business/" target="_blank" rel="noopener noreferrer">Fit Small Business</a>
+    </h3>
+    <p align="center">
+      <a href="https://teronbullock.com/project/fit-small-business/" target="_blank" rel="noopener noreferrer">
+        <img alt="TeronBullock.com Website Button" src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black">
+      </a>
+    </p>
   </td>
 </tr>
 </table>
