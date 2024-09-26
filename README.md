@@ -1,96 +1,117 @@
-# Hi, I'm Te'ron
+<div align="center"><img src="https://github.com/Teronbullock/myImages/blob/main/img/gh-bg-840.jpg" /></div>
 
-<p>
-I'm an experienced software engineer specializing in building modern web applications with JavaScript, including React, and WordPress development (custom themes and plugins). I also have a keen interest in Machine Learning and AI.
-</p>
-
-- 🔭 I’m currently working on [The Sparkline App](https://github.com/Teronbullock/sparkline)
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://teronbullock.com/](https://teronbullock.com/)
-
-- 💬 Ask me about **JS, react, WordPress (plugins and Theme development)**
-
-- 📫 How to reach me **Teron.bullock@gmail.com**
-
-- ⚡ Fun fact **I Enjoy the peace of Cycling 🚴🏾‍♂️**
-&nbsp;
-<h3 align="left">Connect with me:</h3>
-
-<p align="left" style="margin-bottom: 2rem;">
-<a href="https://twitter.com/teronbullock" target="blank"><img align="center" src="https://github.com/Teronbullock/Teronbullock/blob/main/X-logo-white.jpg" alt="teronbullock" height="30" width="30" style="margin-right: 2rem;" /></a>
-&nbsp;
-&nbsp;
-<a href="https://linkedin.com/in/teronbullock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teronbullock" height="30" width="30" /></a>
-</p>
-
-### Languages and Tools:
-
-<div align="left" width: 75%;"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<div align="center">
+  <a href="https://teronbullock.com/">
+    <img src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black" alt="Website Badge">
   </a>
-  &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  &nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
-  &nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>   
-  
-  &nbsp;
-  &nbsp;
-  
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  <a href="https://www.linkedin.com/in/teronbullock/">
+    <img src="https://img.shields.io/badge/Linkedin-f8f8f8?style=flat&logo=linkedin&logoColor=black" alt="LinkedIn Badge">
   </a>
-  &nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  &nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  <a href="https://x.com/teronbullock">
+    <img src="https://img.shields.io/badge/(formerly%20twitter)-f8f8f8?style=flat&logo=x&logoColor=black" alt="X formerly Twitter Badge">
   </a>
-  &nbsp;
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a> 
-  &nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  &nbsp;
 </div>
 
-&nbsp;
-&nbsp;
-<p style="margin-top: 1rem;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teronbullock&show_icons=true&locale=en&layout=compact" alt="teronbullock" />
-</p>
+Hi, I'm Teron (Teh-Ron).
+
+I'm an experienced software engineer specializing in building modern web applications with JavaScript, including React, and WordPress development (custom themes and plugins). I also have a keen interest in Machine Learning and AI.
+
+#### 💻 Currently working on:
+- [The Sparkline App](https://github.com/Teronbullock/sparkline)
+
+#### 📖 Currently learning:
+- TypeScript
+
+#### ⚡ Fun fact:
+- I Enjoy the peace of Cycling 🚴🏾‍♂️
+
+<br>
+
+## Projects
+
+<table align="center">
+<tr>
+  <td width="500"> 
+    <div align="center"><img src="https://github.com/Teronbullock/myImages/blob/main/gif/flashlearn-demo.gif"/></div>
+    <h3 align="center">
+      <a algin="center" href="https://github.com/Teronbullock/FlashLearn">FlashLearn</a>
+    </h3>
+    <p align="center">
+      <a href="https://github.com/Teronbullock/FlashLearn">
+        <img alt="FlashLearn Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black">
+      </a>
+    </p>
+  </td>
+  <td width="500">
+    <div align="center"><img src="https://github.com/Teronbullock/myImages/blob/main/gif/clearcast-demo.gif"/></div>
+    <h3 align="center">
+      <a href="https://github.com/Teronbullock/ClearCast">ClearCast</a>
+    </h3>
+    <p align="center">
+      <a href="https://github.com/Teronbullock/ClearCast">
+        <img alt="ClearCast Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black">
+      </a>
+      <a href="https://react-weather-app-tb.netlify.app/">
+        <img alt="ClearCast Website Button" src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black">
+      </a>
+    </p>
+  </td>
+</tr>
+<tr>
+  <td width="500"> 
+    <div align="center"><img src="https://github.com/Teronbullock/myImages/blob/main/gif/teronbullock-demo.gif"/></div>
+    <h3 align="center">
+      <a algin="center" href="https://teronbullock.com/">TeronBullock.com</a>
+    </h3>
+    <p align="center">
+      <a href="https://github.com/Teronbullock/teronbullock-theme">
+        <img alt="TeronBullock Theme Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black">
+      </a>
+      <a href="https://teronbullock.com/">
+        <img alt="TeronBullock.com Website Button" src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black">
+      </a>
+    </p>
+  </td>
+  <td width="500">
+    
+  </td>
+</tr>
+</table>
+<br>
+
+## Technologies
+
+<div align="center">
+  <div>
+    <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-0B62A4?style=flat&logo=javascript&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-0B62A4?style=flat&logo=html5&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-0B62A4?style=flat&logo=css3&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PHP-0B62A4?style=flat&logo=php&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/React-0B62A4?style=flat&logo=react&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/WordPress-0B62A4?style=flat&logo=wordpress&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/SASS-0B62A4?style=flat&logo=sass&logoColor=White&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Gulp-0B62A4?style=flat&logo=gulp&logoColor=White&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-0B62A4?style=flat&logo=postgresql&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Vue-0B62A4?style=flat&logo=vuedotjs&logoColor=black&labelColor=white">
+  </div>
+  <br>
+  <div>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-0B62A4?style=flat&logo=bootstrap&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind CSS-0B62A4?style=flat&logo=tailwindcss&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-0B62A4?style=flat&logo=css3&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-0B62A4?style=flat&logo=mongodb&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Git-0B62A4?style=flat&logo=git&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Vite-0B62A4?style=flat&logo=vite&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Figma-0B62A4?style=flat&logo=figma&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Linux-0B62A4?style=flat&logo=linux&logoColor=black&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Docker-0B62A4?style=flat&logo=docker&logoColor=black&labelColor=white">
+  </div>
+</div>
+<br>
+
+## Thank You for Visiting!
+
+I appreciate you taking the time to check out my projects and what I’ve been working on. Feel free to reach out to me if you find something interesting or would like to connect.
+
+Let’s collaborate, share ideas, or have a chat. I love connecting with fellow developers and tech enthusiasts.
+
