@@ -35,10 +35,10 @@ I'm an experienced software engineer specializing in building modern web applica
   <td width="500"> 
     <div align="center"><img src="https://github.com/Teronbullock/myImages/blob/main/gif/flashlearn-demo.gif"/></div>
     <h3 align="center">
-      <a algin="center" href="https://github.com/Teronbullock/FlashLearn">FlashLearn</a>
+      <a algin="center" href="https://github.com/Teronbullock/flashlearn-mern">FlashLearn</a>
     </h3>
     <p align="center">
-      <a href="https://github.com/Teronbullock/FlashLearn">
+      <a href="https://github.com/Teronbullock/flashlearn-mern">
         <img alt="FlashLearn Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black">
       </a>
     </p>
