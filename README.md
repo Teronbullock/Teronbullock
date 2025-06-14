@@ -55,7 +55,7 @@ I'm an experienced software engineer specializing in building modern web applica
       <a algin="center" href="https://teronbullock.com/">TeronBullock.com</a>
     </h3>
     <p align="center">
-      <a href="https://github.com/Teronbullock/teronbullock-theme"><img alt="TeronBullock Theme Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black"</a>
+      <a href="https://github.com/Teronbullock/teronbullock-theme"><img alt="TeronBullock Theme Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black"></a>
       <a href="https://teronbullock.com/"><img alt="TeronBullock.com Website Button" src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black"></a>
     </p>
   </td>
