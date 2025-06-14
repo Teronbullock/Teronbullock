@@ -1,19 +1,14 @@
 <div align="center"><img src="https://github.com/Teronbullock/myImages/blob/main/img/gh-bg-840.png" /></div>
 <br>
 <div align="center">
-  <a href="https://teronbullock.com/">
-    <img src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black" alt="Website Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/teronbullock/">
-    <img src="https://img.shields.io/badge/Linkedin-f8f8f8?style=flat&logo=linkedin&logoColor=black" alt="LinkedIn Badge">
-  </a>
-  <a href="https://x.com/teronbullock">
-    <img src="https://img.shields.io/badge/(formerly%20twitter)-f8f8f8?style=flat&logo=x&logoColor=black" alt="X formerly Twitter Badge">
-  </a>
+  <a href="https://teronbullock.com/"><img src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black" alt="Website Badge"></a>
+  <a href="https://www.linkedin.com/in/teronbullock/"><img src="https://img.shields.io/badge/Linkedin-f8f8f8?style=flat&logo=linkedin&logoColor=black" alt="LinkedIn Badge"></a>
+  <a href="https://x.com/teronbullock"><img src="https://img.shields.io/badge/(formerly%20twitter)-f8f8f8?style=flat&logo=x&logoColor=black" alt="X formerly Twitter Badge"></a>
 </div>
 <br>
 
-Hi, I'm Teron (Teh-Ron).
+Hi, I'm Teron (Ron).
+Pronounced: Tah-Ron
 
 I'm an experienced software engineer specializing in building modern web applications with JavaScript, including React, and WordPress development (custom themes and plugins). I also have a keen interest in Machine Learning and AI.
 
@@ -38,12 +33,8 @@ I'm an experienced software engineer specializing in building modern web applica
       <a algin="center" href="https://github.com/Teronbullock/flashlearn-mern">FlashLearn</a>
     </h3>
     <p align="center">
-      <a href="https://github.com/Teronbullock/flashlearn-mern">
-        <img alt="FlashLearn Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black">
-      </a>
-      <a href="https://flashlearn-app.netlify.app/">
-        <img alt="ClearCast Website Button" src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black">
-      </a>
+      <a href="https://github.com/Teronbullock/flashlearn-mern"><img alt="FlashLearn Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black"></a>
+      <a href="https://flashlearn-app.netlify.app/"><img alt="ClearCast Website Button" src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black"></a>
     </p>
   </td>
   <td width="500">
@@ -52,12 +43,8 @@ I'm an experienced software engineer specializing in building modern web applica
       <a href="https://github.com/Teronbullock/ClearCast">ClearCast</a>
     </h3>
     <p align="center">
-      <a href="https://github.com/Teronbullock/ClearCast">
-        <img alt="ClearCast Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black">
-      </a>
-      <a href="https://react-weather-app-tb.netlify.app/">
-        <img alt="ClearCast Website Button" src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black">
-      </a>
+      <a href="https://github.com/Teronbullock/ClearCast"><img alt="ClearCast Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black"></a>
+      <a href="https://react-weather-app-tb.netlify.app/"><img alt="ClearCast Website Button" src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black"></a>
     </p>
   </td>
 </tr>
@@ -68,12 +55,8 @@ I'm an experienced software engineer specializing in building modern web applica
       <a algin="center" href="https://teronbullock.com/">TeronBullock.com</a>
     </h3>
     <p align="center">
-      <a href="https://github.com/Teronbullock/teronbullock-theme">
-        <img alt="TeronBullock Theme Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black">
-      </a>
-      <a href="https://teronbullock.com/">
-        <img alt="TeronBullock.com Website Button" src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black">
-      </a>
+      <a href="https://github.com/Teronbullock/teronbullock-theme"><img alt="TeronBullock Theme Repo Button" src="https://img.shields.io/badge/Repo-f8f8f8?style=flat&logo=github&logoColor=black"</a>
+      <a href="https://teronbullock.com/"><img alt="TeronBullock.com Website Button" src="https://img.shields.io/badge/Website-f8f8f8?style=flat&logo=artifacthub&logoColor=black"></a>
     </p>
   </td>
   <td width="500">
