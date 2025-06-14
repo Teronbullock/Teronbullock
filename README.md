@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/Teronbullock/myImages/blob/main/img/gh-bg-840.jpg" /></div>
+<div align="center"><img src="https://github.com/Teronbullock/myImages/blob/main/img/gh-bg-840.png" /></div>
 <br>
 <div align="center">
   <a href="https://teronbullock.com/">
